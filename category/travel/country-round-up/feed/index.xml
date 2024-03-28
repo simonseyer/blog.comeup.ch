@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Country Round-Up &#8211; Come Up del Sur</title>
+	<atom:link href="/category/travel/country-round-up/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Traveling &#38; Paragliding in South America</description>
+	<lastBuildDate>Sun, 14 Jan 2024 21:16:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Round Up: Panamá</title>
+		<link>/round-up-panama/</link>
+		
+		<dc:creator><![CDATA[Katy]]></dc:creator>
+		<pubDate>Fri, 24 Mar 2023 20:53:36 +0000</pubDate>
+				<category><![CDATA[Country Round-Up]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Panama]]></category>
+		<guid isPermaLink="false">/?p=626</guid>
+
+					<description><![CDATA[
+    <p><img width="2560" height="1706" src="/wp-content/uploads/2023/01/DSC_3382.jpg" class="attachment-full size-full wp-post-image" alt="White and well maintained house next to the sea with a palm tree in front" style="max-width: 100%; height: auto; margin-bottom: 10px;" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/2023/01/DSC_3382.jpg 2560w, /wp-content/uploads/2023/01/DSC_3382-300x200.jpg 300w, /wp-content/uploads/2023/01/DSC_3382-1024x682.jpg 1024w, /wp-content/uploads/2023/01/DSC_3382-768x512.jpg 768w, /wp-content/uploads/2023/01/DSC_3382-1536x1024.jpg 1536w, /wp-content/uploads/2023/01/DSC_3382-2048x1365.jpg 2048w, /wp-content/uploads/2023/01/DSC_3382-1170x780.jpg 1170w, /wp-content/uploads/2023/01/DSC_3382-1320x880.jpg 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>    This post gives an overview of our visit to Panamá and how we perceived it. This can only be a very subjective opinion from the perspective we got and we also expect that our measure will change over time while we adapt our expectations, gather more experiences, and get used to how things are going [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+    <p><img width="2560" height="1706" src="/wp-content/uploads/2023/01/DSC_3382.jpg" class="attachment-full size-full wp-post-image" alt="White and well maintained house next to the sea with a palm tree in front" style="max-width: 100%; height: auto; margin-bottom: 10px;" decoding="async" srcset="/wp-content/uploads/2023/01/DSC_3382.jpg 2560w, /wp-content/uploads/2023/01/DSC_3382-300x200.jpg 300w, /wp-content/uploads/2023/01/DSC_3382-1024x682.jpg 1024w, /wp-content/uploads/2023/01/DSC_3382-768x512.jpg 768w, /wp-content/uploads/2023/01/DSC_3382-1536x1024.jpg 1536w, /wp-content/uploads/2023/01/DSC_3382-2048x1365.jpg 2048w, /wp-content/uploads/2023/01/DSC_3382-1170x780.jpg 1170w, /wp-content/uploads/2023/01/DSC_3382-1320x880.jpg 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>    
+<p>This post gives an overview of our visit to Panamá and how we perceived it. This can only be a very subjective opinion from the perspective we got and we also expect that our measure will change over time while we adapt our expectations, gather more experiences, and get used to how things are going on another continent. </p>
+
+
+
+<h2 class="wp-block-heading">Our Route</h2>
+
+
+
+<p>Panamá is where we started our journey. We stayed in Panamá for around two weeks in January and February 2023 and visited three very different locations. The busy metropolis Panamá City, the peaceful Santa Fe, and the adventurous <a href="https://www.thelostandfoundhostel.com/home">Lost and Found hostel</a> between David and Bocas del Toro. </p>
+
+
+
+<p>The temperature on sea level was quite hot (Panamá City) and much more moderate in the mountains (Santa Fe and Lost &amp; Found). We mainly traveled by local and long-distance buses.</p>
+
+
+<p><div class="leaflet-map WPLeafletMap" style="height:500px; width:100%;"></div><script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMapShortcode() {/*<script>*/
+var baseUrl = atob('aHR0cHM6Ly9iLnRpbGUub3BlbnRvcG9tYXAub3JnL3t6fS97eH0ve3l9LnBuZw==');
+var base = (!baseUrl && window.MQ) ?
+    window.MQ.mapLayer() : L.tileLayer(baseUrl,
+        L.Util.extend({}, {
+            detectRetina: 1,
+        },
+        {"subdomains":"abc","noWrap":false,"maxZoom":19}        )
+    );
+    var options = L.Util.extend({}, {
+        layers: [base],
+        attributionControl: false
+    },
+    {"zoomControl":true,"scrollWheelZoom":true,"doubleClickZoom":true,"fitBounds":true,"minZoom":2,"maxZoom":19,"maxBounds":null,"attribution":"<a href=\"http:\/\/leafletjs.com\" title=\"A JS library for interactive maps\">Leaflet<\/a>; \u00a9 <a href=\"http:\/\/www.openstreetmap.org\/copyright\">OpenStreetMap<\/a> contributors"},
+    {});
+window.WPLeafletMapPlugin.createMap(options).setView([44.67,-63.61],12);});</script><br />
+<script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMarkerShortcode() {/*<script>*/
+var map = window.WPLeafletMapPlugin.getCurrentMap();
+var group = window.WPLeafletMapPlugin.getCurrentGroup();
+var marker_options = window.WPLeafletMapPlugin.getIconOptions({"svg":true,"background":"#0f4c5c","iconClass":"fa-solid fa-house","color":"white"});
+var marker = new L.SVGMarker(
+    [9.0813885,-79.5932229],
+    marker_options
+);
+var is_image = map.is_image_map;
+if (marker_options.draggable) {
+    marker.on('dragend', function () {
+        var latlng = this.getLatLng();
+        var lat = latlng.lat;
+        var lng = latlng.lng;
+        if (is_image) {
+            console.log('leaflet-marker y=' + lat + ' x=' + lng);
+        } else {
+            console.log('leaflet-marker lat=' + lat + ' lng=' + lng);
+        }
+    });
+}
+marker.addTo( group );
+marker.bindPopup(window.WPLeafletMapPlugin.unescape('Panamá City'));window.WPLeafletMapPlugin.markers.push( marker );
+        });</script><br />
+<script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMarkerShortcode() {/*<script>*/
+var map = window.WPLeafletMapPlugin.getCurrentMap();
+var group = window.WPLeafletMapPlugin.getCurrentGroup();
+var marker_options = window.WPLeafletMapPlugin.getIconOptions({"svg":true,"background":"#0f4c5c","iconClass":"fa-solid fa-house","color":"white"});
+var marker = new L.SVGMarker(
+    [8.4962844,-81.1555739],
+    marker_options
+);
+var is_image = map.is_image_map;
+if (marker_options.draggable) {
+    marker.on('dragend', function () {
+        var latlng = this.getLatLng();
+        var lat = latlng.lat;
+        var lng = latlng.lng;
+        if (is_image) {
+            console.log('leaflet-marker y=' + lat + ' x=' + lng);
+        } else {
+            console.log('leaflet-marker lat=' + lat + ' lng=' + lng);
+        }
+    });
+}
+marker.addTo( group );
+marker.bindPopup(window.WPLeafletMapPlugin.unescape('Santa Fe'));window.WPLeafletMapPlugin.markers.push( marker );
+        });</script><br />
+<script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMarkerShortcode() {/*<script>*/
+var map = window.WPLeafletMapPlugin.getCurrentMap();
+var group = window.WPLeafletMapPlugin.getCurrentGroup();
+var marker_options = window.WPLeafletMapPlugin.getIconOptions({"svg":true,"background":"#0f4c5c","iconClass":"fa-solid fa-house","color":"white"});
+var marker = new L.SVGMarker(
+    [8.6747815,-82.2217837],
+    marker_options
+);
+var is_image = map.is_image_map;
+if (marker_options.draggable) {
+    marker.on('dragend', function () {
+        var latlng = this.getLatLng();
+        var lat = latlng.lat;
+        var lng = latlng.lng;
+        if (is_image) {
+            console.log('leaflet-marker y=' + lat + ' x=' + lng);
+        } else {
+            console.log('leaflet-marker lat=' + lat + ' lng=' + lng);
+        }
+    });
+}
+marker.addTo( group );
+marker.bindPopup(window.WPLeafletMapPlugin.unescape('Lost and Found hostel'));window.WPLeafletMapPlugin.markers.push( marker );
+        });</script></p>
+
+
+
+<h2 class="wp-block-heading">Our impressions</h2>
+
+
+
+<p>We conceived Panamá as a very friendly, green, and picturesque country. We especially liked the countryside with the nature ranging from beautiful mountains, over grassland to thick jungle. Because our sailboat trip got canceled we, unfortunately, have seen neither the pacific nor the Caribbean ocean. But from what we heard there are a lot of amazing beaches, snorkeling, and surf spots. Another thing that stood out, was the constantly present wind, which was welcome on hot days but also bestowed us with some noisy nights.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/01/DSC_3551.jpg"><img decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/01/DSC_3551-1024x683.jpg" alt="river with green in the background" class="wp-image-295" srcset="/wp-content/uploads/2023/01/DSC_3551-1024x683.jpg 1024w, /wp-content/uploads/2023/01/DSC_3551-300x200.jpg 300w, /wp-content/uploads/2023/01/DSC_3551-768x512.jpg 768w, /wp-content/uploads/2023/01/DSC_3551-1536x1024.jpg 1536w, /wp-content/uploads/2023/01/DSC_3551-2048x1366.jpg 2048w, /wp-content/uploads/2023/01/DSC_3551-1170x780.jpg 1170w, /wp-content/uploads/2023/01/DSC_3551-1320x880.jpg 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">River in Santa Fe</figcaption></figure>
+
+
+
+<p>In comparison to Costa Rica, which has a similar nature and provides similar experiences and activities, Panamá is cheaper and less touristy. So for another visit, we would probably choose Panamá over Costa Rica. At least as long as we travel without our paragliders.</p>
+
+
+
+<h3 class="wp-block-heading">Food</h3>
+
+
+
+<p>The first local dish we tried was Empanadas from a bakery. They are usually filled with meat, most commonly chicken (pollo) but are also often offered with cheese (queso) and/or beans. The dough is made out of corn. Unfortunately, they don&#8217;t use as much spice, so we weren&#8217;t fully convinced. The bakeries usually have a very similar offering. Most products are made out of some kind of sweet white bread, sometimes filled with meat or cheese (also somehow sweet) or sugary things like doughnuts and cake.</p>
+
+
+
+<p>At a lot of places, you can get Patacones which are double-fried green cook bananas. You can have it as a side dish or as a little meal, comparable to french fries. If you go to a restaurant you can choose between different meat dishes with rice and patacones or beans (soup) and sometimes fish. We tried a few things and once had some delicious meatballs. But the rest (especially the meat) was rather unspicy and dull.</p>
+
+
+
+<p>Because most of what you get as convenience food (for a quick lunch, or as takeaway to take with you on a tour) is either fried (empanada, patacones, chicken pieces) or something from the bakery, we bought and ate a lot of bananas. Already on the third day, we went to a hip cafe serving bowls, to have something fresh and healthy. Later we discovered that in a lot of places, you can get Nachos, which are usually served with chicken or minced meat (because of which we ignored it at first). But also it comes with beans, salad, and usually tomatoes (or tomato salsa) so it was a good compromise and sometimes they offered vegetarian options as well (which we are always looking for).</p>
+
+
+
+<h3 class="wp-block-heading">Mobility</h3>
+
+
+
+<p>Except for Panamá City where we went around by metro, we mainly used buses, from small local ones to big overland buses, comparable to a Flixbus. We always simply went to a bus station and waited for the next bus and rarely waited longer than 15 minutes. Only once we waited 1.5 hours for a big overland bus (which might have been only luck). </p>
+
+
+
+<p>Taking buses in multiple succession was therefore also stressing us out a bit, because usually when getting off the bus somebody was waiting already and approaching the tourists asking for their next destination. We were then guided to our next bus, most often in a hurry. It was common to fill up the bus with as many people as could fit. Which was sometimes quite uncomfortable. </p>
+
+
+
+<h3 class="wp-block-heading">People</h3>
+
+
+
+<p>Most of our contacts were limited to daily errands, accommodation, and ordering food. Whoever we approached, though, was very helpful, and a few times people even helped us without us asking for it.</p>
+
+
+
+<p>For example, once a woman saw that we were a bit confused with the metro payment system and she offered help and guided us through. Another time when leaving the metro my exit was declined because somehow we hadn&#8217;t had anymore enough money on our metro card (we didn&#8217;t know that you also pay upon exit) and another person was just holding his card in front of the reader so I could exist. He was hurrying on after that so I had barely time to thank him.</p>
+
+
+
+<p>When we went from David to Dominical in Costa Rica, we, more or less intentionally, managed to order a whole bus for us alone. Simon wasn&#8217;t well on this day (damn you chicken empanada we only ate on the second day <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f926-200d-2640-fe0f.png" alt="🤦‍♀️" class="wp-smiley" style="height: 1em; max-height: 1em;" />) and we had already one bus ride behind us. Therefore we were searching for an express bus from David across the Costa Rican border to Uvita (we had read that this exists on the internet).</p>
+
+
+
+<p>One bus driver I approached was very helpful and patient with my many questions uttered in broken Spanish. He explained, that there is some kind of express, but it is costly ($40) and we should better take the local bus for just a few bucks. It was clear that this &#8220;express&#8221; would terminate at the border. But somehow during the discussion, I lost track of that and when I went to Simon to ask if we should go for it, he also didn&#8217;t realize the mistake and agreed. He then brought us to his bus and only after heading out of the bus terminal we really realized that we would get a solo ride to the border 40 minutes away (the standard bus would take 1:20h). </p>
+
+
+
+<p>We told ourselves that we probably made the day of the bus driver and put a smile on his face when telling the story to his family. And you couldn&#8217;t say that he was talking us into it. He actively recommended against it for some time, saying it is too expensive. Also, how often can you say that you rented a bus just for yourself <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h3 class="wp-block-heading">Safety</h3>
+
+
+
+<p>With some common safety measures, we felt very safe wherever we went. Sure, in crowded areas like the bus terminals we were cautious, and at the beginning, we also didn&#8217;t go out at night in Panamá City, which was recommended. When we came back after 2 1/2 weeks in Costa Rica, we were so acclimatized and felt safe, that I was even going out alone in the evening to get dinner.</p>
+
+
+
+<p>In Panamá City we also deliberately spared the poorer and more dangerous areas, which I did look up on a map beforehand. I had also read, that you wouldn&#8217;t run into these quarters by accident because they really look and feel different, with a lot of poverty and destitution. When we drove to the Panamà City Airport by Uber, we went by such a quarter and it was shocking. It showed me the stark difference compared to the richer quarters and I understood why you wouldn&#8217;t go there by chance.</p>
+
+
+
+<h3 class="wp-block-heading">Cost</h3>
+
+
+
+<p>The prices in Panamá can vary quite a bit. If you go full local (local food, local accommodation, local buses) it is comparatively cheap. But if you go to just a bit more fancy restaurants and look for hostels on booking, you have to pay a bit more. We went for the cheaper accommodations and paid on average $35 per night for a double room with breakfast. There were good and just okay ones at this price, so it can be worthwhile spending a bit more.</p>
+
+
+
+<p>You can get a simple bean, rice, and meat dish for $3 and an ordinary pizza for $10. Transportation is cheap and a 4-hour bus ride only cost us $9, shorter distances within the city were well below a dollar.</p>
+
+
+
+<h2 class="wp-block-heading">Our Stories</h2>
+
+
+
+<div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-299 post type-post status-publish format-standard has-post-thumbnail hentry category-travel tag-panama">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/01/DSC_3479-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Jungle and behind the city of Panama" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/01/DSC_3479-1170x780.jpg 1170w, /wp-content/uploads/2023/01/DSC_3479-300x200.jpg 300w, /wp-content/uploads/2023/01/DSC_3479-1024x683.jpg 1024w, /wp-content/uploads/2023/01/DSC_3479-768x512.jpg 768w, /wp-content/uploads/2023/01/DSC_3479-1536x1024.jpg 1536w, /wp-content/uploads/2023/01/DSC_3479-2048x1366.jpg 2048w, /wp-content/uploads/2023/01/DSC_3479-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/arriving-in-the-city-jungle/" target="_self" >Arriving in the city jungle</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">From Germany to Panamá in about 20 hours, with a layover in Paris CDG, sounds like a lot. But somehow it was less daunting than we expected. Even my backpack arriving 1 day late did not lower our enthusiasm. Nevertheless, because we arrived in the dark and were quite tired, we waited for the next&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/arriving-in-the-city-jungle/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-309 post type-post status-publish format-standard has-post-thumbnail hentry category-travel tag-panama">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/01/DSC_3578-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Green grass in foreground, valley and mountains in the background" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/01/DSC_3578-1170x780.jpg 1170w, /wp-content/uploads/2023/01/DSC_3578-300x200.jpg 300w, /wp-content/uploads/2023/01/DSC_3578-1024x683.jpg 1024w, /wp-content/uploads/2023/01/DSC_3578-768x512.jpg 768w, /wp-content/uploads/2023/01/DSC_3578-1536x1024.jpg 1536w, /wp-content/uploads/2023/01/DSC_3578-2048x1366.jpg 2048w, /wp-content/uploads/2023/01/DSC_3578-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-2 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/hiking-in-beautiful-santa-fe/" target="_self" >Hiking in Beautiful Santa Fe</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Next up was a little town called Santa Fe north of Panama City where we were looking for more rural impressions of Panamá. To get there, we went to the communal bus station in Albrook. It had several counters with destinations written on top, so we went to the one that stated Santiago (the main&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/hiking-in-beautiful-santa-fe/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-326 post type-post status-publish format-standard has-post-thumbnail hentry category-travel tag-panama">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_3580-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Roof of the hostel in front, valley with rainbow across it" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_3580-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3580-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3580-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3580-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3580-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3580-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3580-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-3 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/lost-found/" target="_self" >Lost &amp; Found</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Even though we just spent one full day in Santa Fe we were quite relaxed. And while we would have been happy to stay longer, we were ready for another day on the road. A bus arrived right when we reached the bus stop so we didn&#8217;t get breakfast in Santa Fe. We could have&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/lost-found/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-646 post type-post status-publish format-standard has-post-thumbnail hentry category-travel tag-colombia tag-panama">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="878" src="/wp-content/uploads/2023/03/20230222_120823-1170x878.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sign saying Medellin" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/03/20230222_120823-1170x878.jpg 1170w, /wp-content/uploads/2023/03/20230222_120823-300x225.jpg 300w, /wp-content/uploads/2023/03/20230222_120823-1024x768.jpg 1024w, /wp-content/uploads/2023/03/20230222_120823-768x576.jpg 768w, /wp-content/uploads/2023/03/20230222_120823-1536x1152.jpg 1536w, /wp-content/uploads/2023/03/20230222_120823-2048x1536.jpg 2048w, /wp-content/uploads/2023/03/20230222_120823-1320x990.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-4 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/welcome-to-columbia/" target="_self" >Welcome to Colombia</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Before we get to Colombia, let me summarise the few days in between. With a draining hike to the takeoff in Jacò, a wrong move when getting up from a park bench, and a 17-hour bus ride, I managed to overwhelm my lower back and was barely able to walk when reaching Panamà City. I&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/welcome-to-columbia/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-626 post type-post status-publish format-standard has-post-thumbnail hentry category-country-round-up category-travel tag-panama">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/01/DSC_3382-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="White and well maintained house next to the sea with a palm tree in front" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/01/DSC_3382-1170x780.jpg 1170w, /wp-content/uploads/2023/01/DSC_3382-300x200.jpg 300w, /wp-content/uploads/2023/01/DSC_3382-1024x682.jpg 1024w, /wp-content/uploads/2023/01/DSC_3382-768x512.jpg 768w, /wp-content/uploads/2023/01/DSC_3382-1536x1024.jpg 1536w, /wp-content/uploads/2023/01/DSC_3382-2048x1365.jpg 2048w, /wp-content/uploads/2023/01/DSC_3382-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/round-up-panama/" target="_self" >Round Up: Panamá</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">This post gives an overview of our visit to Panamá and how we perceived it. This can only be a very subjective opinion from the perspective we got and we also expect that our measure will change over time while we adapt our expectations, gather more experiences, and get used to how things are going&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/round-up-panama/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-1271 post type-post status-publish format-standard has-post-thumbnail hentry category-travel tag-colombia tag-panama">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/06/DSC_7056-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/06/DSC_7056-1170x780.jpg 1170w, /wp-content/uploads/2023/06/DSC_7056-300x200.jpg 300w, /wp-content/uploads/2023/06/DSC_7056-1024x683.jpg 1024w, /wp-content/uploads/2023/06/DSC_7056-768x512.jpg 768w, /wp-content/uploads/2023/06/DSC_7056-1536x1024.jpg 1536w, /wp-content/uploads/2023/06/DSC_7056-2048x1366.jpg 2048w, /wp-content/uploads/2023/06/DSC_7056-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-6 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/ending-on-a-high/" target="_self" >Ending on a High</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">With our next few stops, we took it easy again. First, we went to the touristy and busy city of Santa Marta. We explored the different culinary offers, strolled through the town center, and chilled at the pool of our hostel. After a couple of days, we moved on to a place that was the&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/ending-on-a-high/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li></ul>
+
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Round-Up: Costa Rica</title>
+		<link>/round-up-costa-rica/</link>
+		
+		<dc:creator><![CDATA[Katy]]></dc:creator>
+		<pubDate>Thu, 09 Mar 2023 01:48:54 +0000</pubDate>
+				<category><![CDATA[Country Round-Up]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Costa Rica]]></category>
+		<guid isPermaLink="false">/?p=578</guid>
+
+					<description><![CDATA[
+    <p><img width="2560" height="1707" src="/wp-content/uploads/2023/02/DSC_3743.jpg" class="attachment-full size-full wp-post-image" alt="Green grass in the foreground, jungle below and beach/sea with clouds" style="max-width: 100%; height: auto; margin-bottom: 10px;" decoding="async" srcset="/wp-content/uploads/2023/02/DSC_3743.jpg 2560w, /wp-content/uploads/2023/02/DSC_3743-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3743-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3743-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3743-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3743-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3743-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3743-1320x880.jpg 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>    This post is the long answer to &#8220;How did you find Costa Rica?&#8221;. This is obviously very subjective and we also expect our perspective to shift over the course of our journey as we gather more experiences and adapt to a new normal. For example, while we may have found traffic noteworthy in one country, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+    <p><img width="2560" height="1707" src="/wp-content/uploads/2023/02/DSC_3743.jpg" class="attachment-full size-full wp-post-image" alt="Green grass in the foreground, jungle below and beach/sea with clouds" style="max-width: 100%; height: auto; margin-bottom: 10px;" decoding="async" srcset="/wp-content/uploads/2023/02/DSC_3743.jpg 2560w, /wp-content/uploads/2023/02/DSC_3743-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3743-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3743-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3743-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3743-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3743-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3743-1320x880.jpg 1320w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>    
+<p>This post is the long answer to &#8220;How did you find Costa Rica?&#8221;. This is obviously very subjective and we also expect our perspective to shift over the course of our journey as we gather more experiences and adapt to a new normal. For example, while we may have found traffic noteworthy in one country, it might have ceased to be special to us when reaching the next one. With that in mind, let&#8217;s answer your question.</p>
+
+
+
+<h2 class="wp-block-heading">Our Route</h2>
+
+
+
+<p>We visited the country in February and stayed two ½ weeks in 5 different locations. We have seen only the pacific side and optimized our route for paragliding. We mainly went around by bus and didn&#8217;t visit any big city.</p>
+
+
+<p><div class="leaflet-map WPLeafletMap" style="height:500px; width:100%;"></div><script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMapShortcode() {/*<script>*/
+var baseUrl = atob('aHR0cHM6Ly9iLnRpbGUub3BlbnRvcG9tYXAub3JnL3t6fS97eH0ve3l9LnBuZw==');
+var base = (!baseUrl && window.MQ) ?
+    window.MQ.mapLayer() : L.tileLayer(baseUrl,
+        L.Util.extend({}, {
+            detectRetina: 1,
+        },
+        {"subdomains":"abc","noWrap":false,"maxZoom":19}        )
+    );
+    var options = L.Util.extend({}, {
+        layers: [base],
+        attributionControl: false
+    },
+    {"zoomControl":true,"scrollWheelZoom":true,"doubleClickZoom":true,"fitBounds":true,"minZoom":2,"maxZoom":19,"maxBounds":null,"attribution":"<a href=\"http:\/\/leafletjs.com\" title=\"A JS library for interactive maps\">Leaflet<\/a>; \u00a9 <a href=\"http:\/\/www.openstreetmap.org\/copyright\">OpenStreetMap<\/a> contributors"},
+    {});
+window.WPLeafletMapPlugin.createMap(options).setView([44.67,-63.61],12);});</script><br />
+<script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMarkerShortcode() {/*<script>*/
+var map = window.WPLeafletMapPlugin.getCurrentMap();
+var group = window.WPLeafletMapPlugin.getCurrentGroup();
+var marker_options = window.WPLeafletMapPlugin.getIconOptions({"svg":true,"background":"#0f4c5c","iconClass":"fa-solid fa-house","color":"white"});
+var marker = new L.SVGMarker(
+    [9.25356807938,-83.86332598571],
+    marker_options
+);
+var is_image = map.is_image_map;
+if (marker_options.draggable) {
+    marker.on('dragend', function () {
+        var latlng = this.getLatLng();
+        var lat = latlng.lat;
+        var lng = latlng.lng;
+        if (is_image) {
+            console.log('leaflet-marker y=' + lat + ' x=' + lng);
+        } else {
+            console.log('leaflet-marker lat=' + lat + ' lng=' + lng);
+        }
+    });
+}
+marker.addTo( group );
+marker.bindPopup(window.WPLeafletMapPlugin.unescape('Dominical'));window.WPLeafletMapPlugin.markers.push( marker );
+        });</script><br />
+<script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMarkerShortcode() {/*<script>*/
+var map = window.WPLeafletMapPlugin.getCurrentMap();
+var group = window.WPLeafletMapPlugin.getCurrentGroup();
+var marker_options = window.WPLeafletMapPlugin.getIconOptions({"svg":true,"background":"#0f4c5c","iconClass":"fa-solid fa-house","color":"white"});
+var marker = new L.SVGMarker(
+    [9.4211125580928,-83.659192763625],
+    marker_options
+);
+var is_image = map.is_image_map;
+if (marker_options.draggable) {
+    marker.on('dragend', function () {
+        var latlng = this.getLatLng();
+        var lat = latlng.lat;
+        var lng = latlng.lng;
+        if (is_image) {
+            console.log('leaflet-marker y=' + lat + ' x=' + lng);
+        } else {
+            console.log('leaflet-marker lat=' + lat + ' lng=' + lng);
+        }
+    });
+}
+marker.addTo( group );
+marker.bindPopup(window.WPLeafletMapPlugin.unescape('Rivas'));window.WPLeafletMapPlugin.markers.push( marker );
+        });</script><br />
+<script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMarkerShortcode() {/*<script>*/
+var map = window.WPLeafletMapPlugin.getCurrentMap();
+var group = window.WPLeafletMapPlugin.getCurrentGroup();
+var marker_options = window.WPLeafletMapPlugin.getIconOptions({"svg":true,"background":"#0f4c5c","iconClass":"fa-solid fa-house","color":"white"});
+var marker = new L.SVGMarker(
+    [9.9318258115994,-84.719754048092],
+    marker_options
+);
+var is_image = map.is_image_map;
+if (marker_options.draggable) {
+    marker.on('dragend', function () {
+        var latlng = this.getLatLng();
+        var lat = latlng.lat;
+        var lng = latlng.lng;
+        if (is_image) {
+            console.log('leaflet-marker y=' + lat + ' x=' + lng);
+        } else {
+            console.log('leaflet-marker lat=' + lat + ' lng=' + lng);
+        }
+    });
+}
+marker.addTo( group );
+marker.bindPopup(window.WPLeafletMapPlugin.unescape('Caldera'));window.WPLeafletMapPlugin.markers.push( marker );
+        });</script><br />
+<script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMarkerShortcode() {/*<script>*/
+var map = window.WPLeafletMapPlugin.getCurrentMap();
+var group = window.WPLeafletMapPlugin.getCurrentGroup();
+var marker_options = window.WPLeafletMapPlugin.getIconOptions({"svg":true,"background":"#0f4c5c","iconClass":"fa-solid fa-house","color":"white"});
+var marker = new L.SVGMarker(
+    [9.9774213940591,-84.831815329815],
+    marker_options
+);
+var is_image = map.is_image_map;
+if (marker_options.draggable) {
+    marker.on('dragend', function () {
+        var latlng = this.getLatLng();
+        var lat = latlng.lat;
+        var lng = latlng.lng;
+        if (is_image) {
+            console.log('leaflet-marker y=' + lat + ' x=' + lng);
+        } else {
+            console.log('leaflet-marker lat=' + lat + ' lng=' + lng);
+        }
+    });
+}
+marker.addTo( group );
+marker.bindPopup(window.WPLeafletMapPlugin.unescape('Puntarenas'));window.WPLeafletMapPlugin.markers.push( marker );
+        });</script><br />
+<script>
+window.WPLeafletMapPlugin = window.WPLeafletMapPlugin || [];
+window.WPLeafletMapPlugin.push(function WPLeafletMarkerShortcode() {/*<script>*/
+var map = window.WPLeafletMapPlugin.getCurrentMap();
+var group = window.WPLeafletMapPlugin.getCurrentGroup();
+var marker_options = window.WPLeafletMapPlugin.getIconOptions({"svg":true,"background":"#0f4c5c","iconClass":"fa-solid fa-house","color":"white"});
+var marker = new L.SVGMarker(
+    [9.6149286367707,-84.628281626795],
+    marker_options
+);
+var is_image = map.is_image_map;
+if (marker_options.draggable) {
+    marker.on('dragend', function () {
+        var latlng = this.getLatLng();
+        var lat = latlng.lat;
+        var lng = latlng.lng;
+        if (is_image) {
+            console.log('leaflet-marker y=' + lat + ' x=' + lng);
+        } else {
+            console.log('leaflet-marker lat=' + lat + ' lng=' + lng);
+        }
+    });
+}
+marker.addTo( group );
+marker.bindPopup(window.WPLeafletMapPlugin.unescape('Jacò'));window.WPLeafletMapPlugin.markers.push( marker );
+        });</script></p>
+
+
+
+<h2 class="wp-block-heading">Our Impressions</h2>
+
+
+
+<p>We liked Costa Rica very much, especially the country/mountainside because of the cooler climate and it being less touristy.</p>
+
+
+
+<p>Costa Rica sometimes gets compared to Switzerland. They have a similar size and were able to avoid all conflicts in neighboring countries, stayed neutral, or even helped with negotiations. It is a comparatively wealthy, expensive, and safe country. They have no own army and a good medical care system. Comparing the two countries sounds fair to us.</p>
+
+
+
+<p>Tourism is a big part of its income, which is understandable thinking about the long stretches of the Caribbean and Pacific coast, their mountain range, and exotic wildlife. We also met lots of US citizens, not only tourists but also many who live in Costa Rica. The country is associated with the US a lot, they have a defense agreement and the US is Costa Ricas biggest trading partner. This closeness and proximity to the US were visible in many things, be it food, infrastructure, or cars.</p>
+
+
+
+<h3 class="wp-block-heading">Food</h3>
+
+
+
+<p>We have been to the pacific coast a lot and seafood was on many many menus. Furthermore, you&#8217;ll get a lot of meat, mostly chicken (pollo) and beef in form of minced meat or slices. In the less touristy places, it was nearly impossible to get something vegetarian. Sure, you could always fall back to rice and beans, but only if you explicitly ask for skipping the meat. It&#8217;s just the default for almost every dish.</p>
+
+
+
+<p>In more touristy places you could get salad, pizza, and noodles at various Italian-style restaurants. And in even more fancy places you could enjoy Bowls, Sushi, and Asia-style fried dishes. </p>
+
+
+
+<p>What we especially loved in Costa Rica were fruit drinks. They had all kinds of slushie fruit juices with water or milk (we never tried the latter). We especially liked frozen Cas juice (some kind of fruit, a little sweet and sour) and something called &#8220;limonada hierbabuena&#8221;, which was a mint, lemon slushie with just the right amount of sweetness. </p>
+
+
+
+<p>We also liked a local dish named Casado, which we were able to find in a vegetarian version. It&#8217;s very delicious and nice to look at. It consists of rice, black beans, salad, vegetables (instead of meat), fried bananas, and salsa arranged on a plate.</p>
+
+
+
+<h3 class="wp-block-heading">Mobility</h3>
+
+
+
+<p>We found getting around by public transport in Costa Rica a bit frustrating. In Panamá, for example, we just went to a local bus station and waited a maximum of one hour because there were a lot of small buses going all the time. Costa Rica seems to have a more organized system with fewer but bigger buses. But there is no reliable source of information about when buses are going from which exact place.</p>
+
+
+
+<p>This is because there exist many many different small to large bus companies, arriving and departing at different places at different schedules and you can&#8217;t rely on the information on the internet &#8211; if there is any. There are also no schedules at stops only at big bus terminals. We learned to better always ask the locals <a href="/costa-ricas-cradle-of-paragliding/" data-type="post" data-id="417">the hard way</a>. </p>
+
+
+
+<p>There is also a positive aspect of this, in these bigger buses you always had your seat (exact seat number) and they were more comfortable and spacious. It is also possible to book the trips in advance (mainly only at bigger bus terminals) and you even got a kind of receipt for the luggage you put into the bus trunk. The air conditioning was not always working though and we never even expect the offered WiFi to work.</p>
+
+
+
+<h3 class="wp-block-heading">People</h3>
+
+
+
+<p>We did get in contact with only some of the locals, but all seemed very friendly and eager to help. Even having a language barrier they tried to show us around and explain things. We enjoyed that a lot. </p>
+
+
+
+<p>It also happened twice that somebody approached us and warned us of potential theft happening on the bus or in the city we were about to go to. We see it as a positive sign when people care about random tourists and warn them instead of drawing the conclusion that evil is all around us <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h3 class="wp-block-heading">Safety</h3>
+
+
+
+<p>In Costa Rica, we always felt very safe. Maybe also because we haven&#8217;t visited big cities. We heard about pick-pocketing and theft being a thing, but also while waiting for our bus next to a highway <a href="/jaco-and-back-to-panama/" data-type="post" data-id="556">in the middle of the night</a>, everything was just fine.</p>
+
+
+
+<p>Also, I expected a lot more annoying insects, spiders, and other creepy animals, but even when running around in nature or having lights on at night we were surprised by the lack of insects.</p>
+
+
+
+<h3 class="wp-block-heading">Cost</h3>
+
+
+
+<p>The prices are quite high compared to the surrounding countries. This starts at accommodation prices, but it also got apparent in restaurants and in the supermarket. But if you search a bit we were still able to find good accommodation and food for a fair price. Also avoiding the main tourist spots helps.</p>
+
+
+
+<p>Some examples: the cheapest we had was 26$ per room per night for a very basic room, with its own bedroom without AC and breakfast. The most expensive was 50$ including breakfast and facilities like a pool and garden. </p>
+
+
+
+<p>You can also get a simple bean, rice, and meat dish for 6$ and an ordinary Pizza for 12$.</p>
+
+
+
+<h2 class="test abcdef wp-block-heading">Our Stories</h2>
+
+
+
+<div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-368 post type-post status-publish format-standard has-post-thumbnail hentry category-paragliding category-travel tag-costa-rica tag-paragliding">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_3784-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Paraglider in the center, jungle below and the coastline in the distance" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_3784-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3784-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3784-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3784-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3784-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3784-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3784-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-7 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/paragliding-in-dominical/" target="_self" >Paragliding in Dominical</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Standing at the Dominical paragliding takeoff we see the white clouds above us, the jungle below, and the waves of the pacific ocean hitting cinnamon-colored beaches along this seemingly endless shoreline. Looking straight ahead, we spot playa Dominicalito, the little sister of Dominical beach which is located a bit further up north. The wind is&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/paragliding-in-dominical/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-376 post type-post status-publish format-standard has-post-thumbnail hentry category-paragliding category-travel tag-costa-rica tag-cross-country tag-paragliding">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_3830-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Paraglider at takeoff with a green mountain range in the background" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_3830-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3830-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3830-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3830-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3830-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3830-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3830-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-8 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/fly-rivas/" target="_self" >Fly Rivas</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">After the heat of Dominical beach, the lower temperature in the mountains was very welcome. Rivas is a little village at an altitude of 750m and part of a mountain range that peaks at the highest mountain of Costa Rica, Cerro Chirripó, at 3800m. The closest city is San Isidro. We went to Rivas with&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/fly-rivas/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-417 post type-post status-publish format-standard has-post-thumbnail hentry category-paragliding category-travel tag-costa-rica tag-paragliding tag-soaring">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-9 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_4098-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Platform in the foreground with &quot;Nemaclys&quot; written on it, a bay and the sea in the background" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_4098-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_4098-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_4098-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_4098-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_4098-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_4098-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_4098-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-9 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/costa-ricas-cradle-of-paragliding/" target="_self" >Costa Rica&#8217;s Cradle of Paragliding</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Our next flying spot is said to be the cradle of paragliding in Costa Rica. That&#8217;s where Jean-Claude emigrated to from Switzerland in 1999. Over the years he built up a paragliding paradise with a vast takeoff, restaurant, viewing area, top-landing space, etc. From the launch, you overlook the bay of Caldera, a small village,&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/costa-ricas-cradle-of-paragliding/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-556 post type-post status-publish format-standard has-post-thumbnail hentry category-paragliding category-travel tag-costa-rica tag-paragliding tag-soaring">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-10 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_4143-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_4143-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_4143-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_4143-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_4143-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_4143-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_4143-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_4143-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-10 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/jaco-and-back-to-panama/" target="_self" >Jacó and back to Panamà</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">In comparison to Dominical, which was a nice little surfer town with charm, we encountered Jacó as a huge, noisy, party-surfer town with one hotel and shop after the other. We only stayed one night until we boarded a night bus to Panamà the next evening. We made good use of our one day in&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/jaco-and-back-to-panama/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-578 post type-post status-publish format-standard has-post-thumbnail hentry category-country-round-up category-travel tag-costa-rica">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-11 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_3743-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Green grass in the foreground, jungle below and beach/sea with clouds" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_3743-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3743-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3743-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3743-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3743-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3743-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3743-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-11 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/round-up-costa-rica/" target="_self" >Round-Up: Costa Rica</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">This post is the long answer to &#8220;How did you find Costa Rica?&#8221;. This is obviously very subjective and we also expect our perspective to shift over the course of our journey as we gather more experiences and adapt to a new normal. For example, while we may have found traffic noteworthy in one country,&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/round-up-costa-rica/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-641 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-paragliding tag-costa-rica tag-paragliding">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-12 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_3942-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Paragliding pilot taking off from a platform launching into a green valley" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_3942-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3942-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3942-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3942-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3942-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3942-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3942-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-12 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/paragliding-guide-costa-rica/" target="_self" >Paragliding Guide: Costa Rica</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">On our blog, we don&#8217;t only want to share our travel experiences but also collect information that can be useful for other paragliding pilots traveling in Central and South America. We can obviously only cover the sites we have seen, so this is far from a complete guide. We still hope it is useful for&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/paragliding-guide-costa-rica/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-802 post type-post status-publish format-standard has-post-thumbnail hentry category-travel tag-costa-rica">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-13 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/03/DSC_4169-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/03/DSC_4169-1170x780.jpg 1170w, /wp-content/uploads/2023/03/DSC_4169-300x200.jpg 300w, /wp-content/uploads/2023/03/DSC_4169-1024x683.jpg 1024w, /wp-content/uploads/2023/03/DSC_4169-768x512.jpg 768w, /wp-content/uploads/2023/03/DSC_4169-1536x1024.jpg 1536w, /wp-content/uploads/2023/03/DSC_4169-2048x1366.jpg 2048w, /wp-content/uploads/2023/03/DSC_4169-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-13 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/pulling-the-bus-out-of-the-mud/" target="_self" >Pulling the Bus out of the Mud</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">I&#8217;m typing this post from Santa Elena which is located in the paragliding paradise Cauca Valley. I want to take you back about a month, though, and share more about our time in Jardín. As mentioned in our last post, we&#8217;ve spent about a week there (our longest stay till that point) and used the&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/pulling-the-bus-out-of-the-mud/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li></ul>
+
+</div>
+
+
+
+<h2 class="wp-block-heading">Our Guides</h2>
+
+
+
+<div class="wp-block-query is-layout-flow wp-block-query-is-layout-flow"><ul class="wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow"><li class="wp-block-post post-443 page type-page status-publish has-post-thumbnail hentry">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-14 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_3743-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Green grass in the foreground, jungle below and beach/sea with clouds" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_3743-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3743-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3743-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3743-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3743-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3743-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3743-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-14 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/paragliding/costa-rica/dominical/" target="_self" >Site Guide: Dominical (CR)</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Dominical is a small surfer town located at the pacific ocean in the south of the country. You take off at the mountain ridge set back from the coast and fly over the jungle before landing at either Dominicalito or Dominical beach. Because of the consistent thermals at the takeoff ridge, it is easy to&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/paragliding/costa-rica/dominical/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-542 page type-page status-publish has-post-thumbnail hentry">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-15 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_3942-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Paragliding pilot taking off from a platform launching into a green valley" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_3942-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_3942-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_3942-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_3942-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_3942-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_3942-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_3942-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-15 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/paragliding/costa-rica/rivas/" target="_self" >Site Guide: Rivas (CR)</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Rivas is said to be the XC flying paradise. It offers an interesting mix of mountain and flatland flying that is quite unique. The town is located in the mountains of Costa Rica, only a few hours&#8217; drive from another great flying site, Dominical. While we weren&#8217;t too successful ourselves, we definitely see the potential,&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/paragliding/costa-rica/rivas/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li><li class="wp-block-post post-596 page type-page status-publish has-post-thumbnail hentry">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-16 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:35%"><figure style="height:100%;" class="fullheight wp-block-post-featured-image"><img decoding="async" width="1170" height="780" src="/wp-content/uploads/2023/02/DSC_4098-1170x780.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Platform in the foreground with &quot;Nemaclys&quot; written on it, a bay and the sea in the background" style="height:100%;object-fit:cover;" srcset="/wp-content/uploads/2023/02/DSC_4098-1170x780.jpg 1170w, /wp-content/uploads/2023/02/DSC_4098-300x200.jpg 300w, /wp-content/uploads/2023/02/DSC_4098-1024x683.jpg 1024w, /wp-content/uploads/2023/02/DSC_4098-768x512.jpg 768w, /wp-content/uploads/2023/02/DSC_4098-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/DSC_4098-2048x1366.jpg 2048w, /wp-content/uploads/2023/02/DSC_4098-1320x880.jpg 1320w" sizes="(max-width: 1170px) 100vw, 1170px" /></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:65%">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-layout-16 wp-block-group-is-layout-flex"><h2 style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:var(--wp--preset--spacing--20);margin-right:0;margin-bottom:0;margin-left:0;" class="wp-block-post-title"><a href="/paragliding/costa-rica/caldera/" target="_self" >Site Guide: Caldera (CR)</a></h2>
+
+<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">As described in our blog post about Caldera, it is said to be the cradle of paragliding in Costa Rica. It features soft and playful coast-soaring conditions, a vast takeoff area, and a welcoming host. Flying is very easy-going (as long you keep an eye on the wind direction) and it&#8217;s a great spot to&hellip;</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="/paragliding/costa-rica/caldera/">Read more</a></p></div></div>
+</div>
+</div>
+
+</li></ul>
+
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
